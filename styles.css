@@ -1,0 +1,35 @@
+#page{
+    background-color: gold;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#moon{
+    background-color: aqua;
+    color: red;
+}
+ul,ol{
+    text-align: center;
+    list-style-position: inside;
+}
+
+
+
+.p1{
+    text-align: center;
+    color: rgb(0, 17, 255);
+    font-weight: bold;
+}
+.p2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
+.p3{
+    
+    color:rgb(12, 12, 12);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p4,.p5{
+    font-size: large;
+    font-weight: bolder;
+    color: red;
+}
